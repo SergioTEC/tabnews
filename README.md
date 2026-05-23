@@ -1,1 +1,1 @@
-# Clone do site [tabnews.com.br](https://www.tabnews.com.br/)
+# Clone of the website [tabnews.com.br](https://www.tabnews.com.br/)
